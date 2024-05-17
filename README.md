@@ -47,3 +47,16 @@ Testing Coverage :
 <p align="center" width="100%">
     <img width="100%" src="./docs/img/testing-coverage.png"> 
 </p>
+
+# Data Diri
+
+|                  |                          |
+| ---------------- | ------------------------ |
+| ID Peserta       | **FSW2402KM6001**        |
+| Nama Peserta     | **Achmad Sarifitra N R** |
+|                  |                          |
+| Kelas            | **FSW 1**                |
+|                  |                          |
+| ID Fasil         | **F-FSW24001086**        |
+| Nama Fasilitator | **Imam Taufiq Hermawan** |
+|                  |                          |
